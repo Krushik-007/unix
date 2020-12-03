@@ -22,7 +22,7 @@ Grade : C | Mark : 6
 | Category                                      | Percentage | Tests     | Crash ?     |
 |-----------------------------------------------|------------|-----------|-------------|
 | Bad parameter                                 | 0%         | 0/4       | x           |
-| Debug mode - Read tetriminos                  | 41.2%%     | 7/17      | Yes (1)     |
+| Debug mode - Read tetriminos                  | 41.2%      | 7/17      | Yes (1)     |
 | Debug mode - Read tetriminos : subject sample | 100%       | 1/1       | x           |
 | Debug mode - Read capacities                  | 50%        | 3/6       | x           |
 | Display help                                  | 100%       | 2/2       | x           |
