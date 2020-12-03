@@ -1,5 +1,5 @@
 # tetris
-{EPITECH} | First year | Unix System programming project
+# {EPITECH} | First year | Unix System programming project
 
 The goal of this project is to recreate the Tetris game in a UNIX terminal, with the Gameboy version rules.You have to use ncurses.
 
@@ -15,19 +15,20 @@ See the subject for further details !
 
 ========================
 
-2nd semester Unix System programming unit
+## 2nd semester Unix System programming unit
 
 Grade : C | Mark : 6
 
-Score : 38.2%
+| Category                                      | Percentage | Tests     | Crash ?     |
+|-----------------------------------------------|------------|-----------|-------------|
+| Bad parameter                                 | 0%         | 0/4       | x           |
+| Debug mode - Read tetriminos                  | 41.2%%     | 7/17      | Yes (1)     |
+| Debug mode - Read tetriminos : subject sample | 100%       | 1/1       | x           |
+| Debug mode - Read capacities                  | 50%        | 3/6       | x           |
+| Display help                                  | 100%       | 2/2       | x           |
+| Testing parameters                            | 0%         | 0/4       | x           |
+| **End score**                                 | **38.2%**  | **13/34** | **Yes (1)** |
 
-   - Bad parameter : 0% --- 0/4
-   - Debug mode - Read tetriminos : 41.2% --- 7/17 (/!\ 1 crashed)
-   - Debug mode - Read tetriminos : Subject sample : 100% --- 1/1
-   - Debug mode - Read capacities : 50% --- 3/6
-   - Display help : 100% --- 2/2
-   - Testing parameters : 0% --- 0/4
-
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Beware of -42 Epitech students !!!
